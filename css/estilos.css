@@ -39,9 +39,21 @@ margin: 0 auto;
  font-weight:  bold; 
 }
 
+#cabecera #logo
+{
+     width: 20px;
+     vertical-align: middle;
+}
+
 #cabecera #tagline
 {
     font-weight: normal;
     font-size: 0.8em;
     margin: 0 0 0 1em;
+}
+
+#post 
+{
+    background: white;
+    padding: 1em;
 }
